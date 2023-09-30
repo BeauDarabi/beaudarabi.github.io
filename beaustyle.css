@@ -1,0 +1,72 @@
+body{
+    background-image: url("forest.jpg");
+    background-position: 35%;
+    font-family: "sans-serif";
+}
+.first{
+    
+    color: orchid;
+    text-align: center;
+    
+}
+h2{
+    color: orange;
+
+}
+.firstlink{
+    color: orchid;
+    position: absolute;
+    bottom: 0;
+    right:0;
+    width: 100px;
+    text-align: right;
+    
+
+}
+a:hover{
+    background-color: yellow;
+    color:darkgreen;
+}
+.hobbies{
+    color: orchid;
+}
+.albums{
+    color: orchid;
+}
+.hobby1{
+color:orchid
+}
+.hobby2{
+    color:orchid;
+}
+.resume{
+    color:orchid;
+    
+}
+span{
+    color:red;
+    font-weight: bold;
+}
+table{
+    color:orange;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+  margin-right: auto;
+  
+  
+  
+    
+}
+
+tr{
+    background-color: white;
+    border: none;
+    text-align: center;
+    width: 100%;
+    
+
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
